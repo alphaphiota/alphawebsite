@@ -25,6 +25,7 @@ h1{
 .jumbotron{
 	background:linear-gradient(#990000,#660000);
 	color: #ffffff;
+	padding: 60px;
 }
 .ImageBorder
 {
