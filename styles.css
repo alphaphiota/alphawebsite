@@ -24,8 +24,7 @@ h1{
 }
 
 .navbar{
-	/* background: linear-gradient(#001f5C,#00143D); */
-	background: #ffffff;
+	background: linear-gradient(#001f5C,#00143D);
 	border: 0px;
 	box-shadow: none;
 }
